@@ -1,2 +1,2 @@
 # Connect QML and Cpp
-connect qml and c++
+Connect qml and c++
